@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img href "" 
+<img src = "gitImg.gif" width = "330px" /> 
 
 Eu sou o Lucas Daniel, sou um programador Front End.
 <p>Vou postar os projetos que eu aprendi. Tenho 16 anos, quero me tornar um programador profissional.<p/>
