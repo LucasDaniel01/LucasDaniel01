@@ -7,7 +7,7 @@
 
 Eu sou o Lucas Daniel, sou um programador Front End, Tenho 16 anos, quero me tornar um programador profissional.
 
-<p> Estou em bunsca do meu primeiro emprego na área da programação.<p/>
+<p> Estou em busca do meu primeiro emprego na área da programação.<p/>
 <br>
 
  <img width="60"  height="60"   src="https://img.icons8.com/color/50/html-5--v1.png" alt="html-5--v1"/> 
