@@ -4,10 +4,10 @@
 
 ### Hi there 👋
 
-É bom ter você por aqui!
+### É bom ter você por aqui!
 
-Eu sou o Lucas Daniel, sou um programador Front End.
-<p> Tenho 16 anos, quero me tornar um programador profissional.<p/>
+Eu sou o Lucas Daniel, sou um programador Front End, Tenho 16 anos, quero me tornar um programador profissional.
+
 <p> Estou me bunsca do meu primeiro emprego na área da programação.<p/>
 <br>
 
@@ -27,4 +27,8 @@ Eu sou o Lucas Daniel, sou um programador Front End.
 
  <hr/>
 
- ![LucasDaniel01's Stats](https://github-readme-stats.vercel.app/api?username=LucasDaniel01&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+<div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoflorais&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=risoflorais&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+</div>
