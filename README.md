@@ -1,8 +1,7 @@
 
+### Hi there 👋
 
 <img src = "gitImg.gif" width = "330px" /> 
-
-### Hi there 👋
 
 ### É bom ter você por aqui!
 
